@@ -37,7 +37,7 @@ npx tailwindcss init -p
   ```
 
   ```css
-  /* src/styles/index.css */
+  /* src/index.css */
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
